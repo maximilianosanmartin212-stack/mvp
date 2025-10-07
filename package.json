@@ -1,0 +1,16 @@
+{
+  "name": "telegram-chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot multicanal gratuito para Telegram",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Maximiliano San Martín",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
